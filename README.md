@@ -1,6 +1,10 @@
 # dinero-skatteregnskab
 Excel template til at lave Årsregnskab baseret på dinero.dk data
 
+v1.05:
+
+- Rettelser til forklaringerne i dette ark. Ingen ændringer til selve beregningerne.
+
 v1.04:
 
 Fejlrettelser:
